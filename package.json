@@ -1,0 +1,14 @@
+{
+  "name": "promise-retry-outer-catch",
+  "version": "1.0.0",
+  "description": "Test case for a possible promise-retry issue",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "promise-retry": "^1.1.1"
+  }
+}
